@@ -112,7 +112,7 @@
 	      <id>nexus</id>
 	      <name>ReshmaFarheen Snapshot Nexus Repository </name>
 	      <url>http://localhost:8088/reshmafarheen/repository/Sunforma-snapshot/</url>
-	    </snapshotRepository> <!--id nexus should be same in .m2 settings.xml and in downloaded s/w too -->
+	    </snapshotRepository> 
        -->
             <snapshotRepository>
 	      <id>nexus</id>
