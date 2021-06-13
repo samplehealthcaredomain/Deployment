@@ -117,7 +117,7 @@
             <snapshotRepository>
 	      <id>nexus</id>
 	      <name>NexusRepository </name>
-	      <url>http://40.117.123.236:8081/repository/Maven1Repository/</url>
+	      <url>http://13.232.144.193:8081/repository/Maven_Nexus_Repo/</url>
 	    </snapshotRepository>
 
 	</distributionManagement>
